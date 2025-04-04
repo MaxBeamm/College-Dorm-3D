@@ -17,7 +17,7 @@
 
 
   <p align="center">
-    Welcome to the 3D College Dorm Room Simulation! This game allows you to explore a realistic 3D environment of a college dorm room, starting in a hallway and navigating through doors to enter a dorm room. Interact with various objects, such as opening curtains or pressing a button to change the season/weather. The game uses OpenGL for rendering the graphics and offers an immersive experience for users to explore.
+    Welcome to the 3D College Dorm Room Simulation! This game allows you to explore a realistic 3D environment of a college dorm room.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -64,6 +64,8 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+Welcome to the 3D College Dorm Room Simulation! This game allows you to explore a realistic 3D environment of a college dorm room, starting in a hallway and navigating through doors to enter a dorm room. Interact with various objects, such as opening curtains or pressing a button to change the season/weather. The game uses OpenGL for rendering the graphics and offers an immersive experience for users to explore.
 
 
 
